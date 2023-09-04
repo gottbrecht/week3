@@ -1,2 +1,4 @@
-package day1.week3.repositories;public class CitizenRepository {
+package day1.week3.repositories;
+
+public interface CitizenRepository {
 }
